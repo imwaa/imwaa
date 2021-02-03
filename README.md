@@ -9,7 +9,7 @@
  <!-- [![Mail Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://instagram.com/islempenywis) -->
 
 
-- 💻 I’m currently an intern at [**Neuromedia**](https://neuromedia.io/).
+- 💻 I’m currently in internship at [**Neuromedia**](https://neuromedia.io/).
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🌱 I’m currently learning **Angular & Ionic**
 
