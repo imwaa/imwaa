@@ -37,9 +37,6 @@ I'm Walid Salhi Belkacem, a Computer Science student &  passionate Web/Mobile Fu
 [![React Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](#)
 
-
-<br />
-
 <!-- #### CV/Resume
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
 
