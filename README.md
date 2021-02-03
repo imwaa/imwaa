@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Angular & Ionic**
 
 - 📫 How to reach me **walid.dev@outlook.fr**
-- ⚡ Fun fact: I laren new tech and go to the GYM very often.
+- ⚡ Fun fact: I'm constantly learning new tech and go to the GYM very often.
 
 ### Tech-stack
 [![Net Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#)
