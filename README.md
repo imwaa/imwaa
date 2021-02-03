@@ -6,7 +6,7 @@ I'm Walid Salhi Belkacem, a Computer Science student &  passionate Web/Mobile Fu
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walid-salhi-belkacem/) [![Mail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:walid.dev@outlook.fr)
- [![Mail Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://instagram.com/islempenywis)
+ <!-- [![Mail Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://instagram.com/islempenywis) -->
 
 <!-- TODO: Add last video link -->
 ****
@@ -22,8 +22,9 @@ I'm Walid Salhi Belkacem, a Computer Science student &  passionate Web/Mobile Fu
 [![React Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
-[![React Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
+
+[![React Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 
@@ -37,7 +38,6 @@ I'm Walid Salhi Belkacem, a Computer Science student &  passionate Web/Mobile Fu
 [![React Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](#)
 
 
-<br />
 <br />
 
 <!-- #### CV/Resume
