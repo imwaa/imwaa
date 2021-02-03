@@ -8,8 +8,7 @@ I'm Walid Salhi Belkacem, a Computer Science student &  passionate Web/Mobile Fu
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walid-salhi-belkacem/) [![Mail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:walid.dev@outlook.fr)
  <!-- [![Mail Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://instagram.com/islempenywis) -->
 
-<!-- TODO: Add last video link -->
-****
+
 - 💻 I’m currently an intern at [**Neuromedia**](https://neuromedia.io/).
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🌱 I’m currently learning **Angular & Ionic**
