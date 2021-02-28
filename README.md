@@ -11,7 +11,7 @@
 
 - 💻 I’m currently in internship at [**Neuromedia**](https://neuromedia.io/).
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🌱 I’m currently learning **Angular & Flutter**
+- 🌱 I’m currently learning **.Net, Angular & Flutter**
 
 - 📫 How to reach me **walid.dev@outlook.fr**
 - ⚡ Fun fact: I'm constantly learning new tech and go to the GYM very often.
