@@ -1,6 +1,6 @@
 ## Hi I'm Walid <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-### I'm Walid Salhi Belkacem, a Computer Science student &  passionate Web/Mobile Full - Stack Developer based in Liège, Belgium.
+### I'm Walid Salhi Belkacem,  I am a junior .Net Full-Stack developer recently graduated in Computer Science at Haute Ecole de la Ville de Liège  & a passionate Web Full - Stack Developer based in Liège, Belgium.
 
 
 :mailbox: Reach me out!
