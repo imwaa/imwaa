@@ -8,18 +8,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walid-salhi-belkacem/) [![Mail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:walid.dev@outlook.fr)
  <!-- [![Mail Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://instagram.com/islempenywis) -->
 
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **walid.dev@outlook.fr**
-- ⚡ Fun fact: I'm constantly learning new tech and go to the GYM very often.
 
 ### Tech-stack
 [![Net Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#)
-[![React Badge](https://img.shields.io/badge/React-00000F?style=for-the-badge&logo=react&logoColor=white)](#)
+[![React Badge](https://img.shields.io/badge/Angular-00000F?style=for-the-badge&logo=Angular&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
-[![React Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
 
 [![React Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](#)
