@@ -1,44 +1,29 @@
-## Hi I'm Walid <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+![readme-picture](https://user-images.githubusercontent.com/69726409/142743764-7c3258dd-2a4d-4e8f-a2aa-e1f8c716db6f.png)
 
-### I'm Walid Salhi Belkacem,  I am a junior .Net Full-Stack developer recently graduated in Computer Science at Haute Ecole de la Ville de Liège  & a passionate Web Full - Stack Developer based in Liège, Belgium.
-
-
-:mailbox: Reach me out!
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walid-salhi-belkacem/) [![Mail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:walid.dev@outlook.fr)
- <!-- [![Mail Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://instagram.com/islempenywis) -->
-
-- 🌱 I’m currently learning **Angular**
-
-- 📫 How to reach me **walid.dev@outlook.fr**
-
-### Tech-stack
-[![Net Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#)
-[![React Badge](https://img.shields.io/badge/Angular-00000F?style=for-the-badge&logo=Angular&logoColor=white)](#)
-[![React Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
-
-[![React Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
-[![React Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](#)
+<p align="center">
+ 
+ <img src="https://user-images.githubusercontent.com/69726409/142744286-d5b56a3c-374c-4321-9a01-74755b102846.png">
+ <img src="https://user-images.githubusercontent.com/69726409/142744290-b3e82579-2ab4-434b-90d8-b57870802505.png">
+</p>
+<h4 align="center">T E C H   -   S T A C K</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=black&color=black&labelColor=cyan">
+   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=black&color=black&labelColor=cyan">
+ </br>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=black&color=black&labelColor=cyan">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=black&color=black&labelColor=cyan">
+  </br>
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=black&color=black&labelColor=cyan">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=black&color=black&labelColor=cyan">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=black&color=black&labelColor=cyan">
 
 
-[![React Badge](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](#)
-[![React Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-[![React Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
+ 
+</p>
 
-<!-- ### Programming Languages
-[![React Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
-[![React Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
-[![React Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![React Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
-[![React Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![React Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![React Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](#) -->
+ </br>
+ </br>
+ </br>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=imwaa&label=Profile%20views&style=flat-square" alt="imwaa" /> </p>
 
-<!-- #### CV/Resume
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
-
-
-### Profile Visits 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imwaa&label=Profile%20views&color=0e75b6&style=flat" alt="imwaa" /> </p>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imwaa&show_icons=true&locale=en&layout=compact" alt="imwaa" /></p> -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imwaa&show_icons=true&locale=en&layout=compact" alt="imwaa" /></p>
