@@ -1,10 +1,6 @@
 ![readme-picture](https://user-images.githubusercontent.com/69726409/142743764-7c3258dd-2a4d-4e8f-a2aa-e1f8c716db6f.png)
 
-<p align="center">
- 
- <img src="https://user-images.githubusercontent.com/69726409/142744286-d5b56a3c-374c-4321-9a01-74755b102846.png" href="https://www.linkedin.com/in/walid-salhi-belkacem/" >
- <img src="https://user-images.githubusercontent.com/69726409/142744290-b3e82579-2ab4-434b-90d8-b57870802505.png" href="mailto:walid.dev@outlook.fr">
-</p>
+
 <h4 align="center">T E C H   -   S T A C K</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=black&color=black&labelColor=00efd6">
